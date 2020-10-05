@@ -1,2 +1,2 @@
-# exercicis_DWEC
+# EXERCICIS DWEC
 Exercicis de DWEC
